@@ -3,12 +3,12 @@
 **Focus:** Excel Interface & Basic Formulas
 
 ## Skills Learned Today:
-✅ Excel interface navigation and customization
-✅ Professional worksheet setup and formatting 
-✅ Basic mathematical formulas (SUM, AVERAGE, MIN, MAX, COUNT)
-✅ Currency and percentage formatting
-✅ GitHub repository setup for portfolio
-✅ LinkedIn professional profile optimization
+- ✅ Excel interface navigation and customization
+- ✅ Professional worksheet setup and formatting 
+- ✅ Basic mathematical formulas (SUM, AVERAGE, MIN, MAX, COUNT)
+- ✅ Currency and percentage formatting
+- ✅ GitHub repository setup for portfolio
+- ✅ LinkedIn professional profile optimization
 
 ## Files Created:
 - Day1_Practice.xlsx - Basic data entry and formatting
